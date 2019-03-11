@@ -1,0 +1,13 @@
+
+Backup/
+
+Installed Packages/0_package_control_loader\.sublime-package
+
+Local/
+
+Packages/*
+
+!Packages/User/
+Packages/User/Package Control\.last-run
+
+Packages/User/Package Control\.cache/
