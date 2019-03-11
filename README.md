@@ -6,3 +6,5 @@
 4. Buka sublime 3 dan buka preference -> browse packages
 5. Merge manual isi dari git clone dengan yang asli
 6. Buka sublime agar sublime melakukan instalasi secara otomatis
+
+Kalau ada yang error uninstall aja dulu baru ntar di install lagi. :)
