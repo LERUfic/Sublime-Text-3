@@ -1,6 +1,6 @@
 {
-	"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
-	"font_face": "Fira Code Medium",
+	"color_scheme": "Packages/ayu/ayu-light.tmTheme",
+	"font_face": "Fira Code Bold",
 	"font_options":
 	[
 		"gray_antialias"
@@ -15,5 +15,5 @@
 	"material_theme_accent_bright-teal": true,
 	"material_theme_accent_scrollbars": true,
 	"material_theme_bullet_tree_indicator": true,
-	"theme": "Material-Theme.sublime-theme"
+	"theme": "Material-Theme-Lighter.sublime-theme"
 }
