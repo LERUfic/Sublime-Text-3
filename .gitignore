@@ -11,3 +11,9 @@ Packages/*
 Packages/User/Package Control\.last-run
 
 Packages/User/Package Control\.cache/
+
+Cache/
+
+Index/
+
+\.DS_Store
