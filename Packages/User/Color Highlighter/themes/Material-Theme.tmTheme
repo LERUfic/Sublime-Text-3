@@ -32370,6 +32370,39 @@
 				<string>#6A6A6AFF</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_008080FF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#008080FF</string>
+				<key>foreground</key>
+				<string>#D9D9D9FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_DADADAFF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#DADADAFF</string>
+				<key>foreground</key>
+				<string>#5A5A5AFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_FF0000FF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FF0000FF</string>
+				<key>foreground</key>
+				<string>#CCCCCCFF</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>133d1250-19c6-4565-bc93-b37fd36f7fc9</string>
