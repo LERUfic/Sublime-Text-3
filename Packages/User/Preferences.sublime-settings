@@ -6,7 +6,7 @@
 	[
 		"gray_antialias"
 	],
-	"font_size": 14,
+	"font_size": 13,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -18,5 +18,6 @@
 	"material_theme_accent_bright-teal": true,
 	"material_theme_accent_scrollbars": true,
 	"material_theme_bullet_tree_indicator": true,
+	"show_definitions": false,
 	"theme": "Material Spacegray Light.sublime-theme"
 }
